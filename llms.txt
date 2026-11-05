@@ -6,4 +6,4 @@
 
 - [AutoMode](https://mralexivy.github.io/AutoMode/): a free Claude Code plugin that picks the model and the effort for each prompt. Full page list: [AutoMode llms.txt](https://mralexivy.github.io/AutoMode/llms.txt)
 - [GitHub](https://github.com/mralexivy)
-- [AutoMode docs](https://mralexivy.github.io/AutoMode/docs/): the full AutoMode documentation. Index for assistants: https://mralexivy.github.io/AutoMode/docs/llms.txt
+- [AutoMode docs](https://mralexivy.github.io/AutoMode/docs/): the full AutoMode documentation. Index for assistants: https://mralexivy.github.io/AutoMode/llms.txt

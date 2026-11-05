@@ -4,4 +4,3 @@ Allow: /
 
 Sitemap: https://mralexivy.github.io/sitemap.xml
 Sitemap: https://mralexivy.github.io/AutoMode/sitemap.xml
-Sitemap: https://mralexivy.github.io/AutoMode/docs/sitemap.xml
