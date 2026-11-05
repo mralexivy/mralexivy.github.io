@@ -6,4 +6,7 @@
   <sitemap>
     <loc>https://mralexivy.github.io/AutoMode/sitemap-pages.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://mralexivy.github.io/AutoMode/docs/sitemap.xml</loc>
+  </sitemap>
 </sitemapindex>
