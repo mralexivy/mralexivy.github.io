@@ -1,0 +1,6 @@
+# Every crawler, search and AI alike, may read the whole site.
+User-agent: *
+Allow: /
+
+Sitemap: https://mralexivy.github.io/sitemap.xml
+Sitemap: https://mralexivy.github.io/AutoMode/sitemap.xml

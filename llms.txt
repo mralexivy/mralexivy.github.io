@@ -1,0 +1,8 @@
+# Alex Ivy
+
+> Open source tools for Claude Code by Alex Ivy.
+
+## Projects
+
+- [AutoMode](https://mralexivy.github.io/AutoMode/): a free Claude Code plugin that picks the model and the effort for each prompt. Full page list: [AutoMode llms.txt](https://mralexivy.github.io/AutoMode/llms.txt)
+- [GitHub](https://github.com/mralexivy)
